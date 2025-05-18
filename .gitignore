@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/*
+todo.md
+*.gif
+gif_frames/
