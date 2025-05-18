@@ -1,0 +1,25 @@
+{
+  "simulation": {
+    "boid_count": 70,
+    "frames": 200,
+    "space_width": 800,
+    "space_height": 600
+  },
+
+  "behavior": {
+    "perception_radius": 60.0,
+    "separation_distance": 20.0,
+
+    "max_speed": 11.0,
+    "max_force": 0.3,
+
+    "alignment_weight": 1.5,
+    "cohesion_weight": 1.5,
+    "separation_weight": 2.5
+  },
+
+  "output": {
+    "output_dir": "data"
+  }
+}
+
