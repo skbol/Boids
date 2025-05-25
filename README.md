@@ -4,6 +4,9 @@ Just a simple 2D boids simulation I'm building in Python.
 
 This project implements a **2D Boids simulation engine** written in Python. The simulation models the flocking/herding behavior of boids — simple agents following basic rules like separation, alignment, and cohesion — producing emergent collective motion. 
 
+<img src="assets\boids_simulation.gif" alt="Boids Simulation Interactive Demo" width="500"/>
+
+
 ---
 
 ## How It Works
